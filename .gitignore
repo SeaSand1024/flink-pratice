@@ -1,7 +1,6 @@
 .idea
-derby.log
-*/src/target
+./i*/src/target
 artifacts/*
-*/imooc-flink.iml
-*/*.iml
+./imooc-flink.iml
+./*.iml
 
