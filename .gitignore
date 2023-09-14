@@ -3,4 +3,5 @@ imooc-*/src/target
 ./imooc-flink.iml
 ./*/*.iml
 out
+imooc-*/artifacts
 
