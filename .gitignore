@@ -1,6 +1,6 @@
 .idea
 imooc-*/src/target
 ./imooc-flink.iml
-./*.iml
+./*/*.iml
 out
 
