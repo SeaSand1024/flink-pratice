@@ -1,6 +1,6 @@
 .idea
-./i*/src/target
-artifacts/*
+imooc-*/src/target
 ./imooc-flink.iml
 ./*.iml
+out
 
